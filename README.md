@@ -1,5 +1,5 @@
 # SANSKRITISETU
-
+trcfu0eid01i0ief  
 SANSKRITISETU is an interactive Indian cultural heritage experience. Users can explore state profiles, discover monuments and crafts on a map, ask the AI guide questions, and use multilingual or voice-based interactions as those modules are integrated.
 
 ## Project Description
